@@ -1,5 +1,5 @@
 # CIVE202_Project3
-Analysis of National Household Travel Survey and Next Generation Simulation data for Federal Highway Administration
+Graphical analysis of National Household Travel Survey and Next Generation Simulation data and simulation of driver charachteristics for Federal Highway Administration
 ## Repository Structure
 This repository includes the following files:
 - [Gantt chart](CIVE_Spring2026_Christopher%20Moore_Project%203_GanttChart.xslx)
