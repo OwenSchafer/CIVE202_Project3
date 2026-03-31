@@ -5,7 +5,7 @@ This repository includes the following files:
 - [Gantt chart](CIVE_Spring2026_Christopher%20Moore_Project%203_GanttChart.xslx)
 - [Lab document](CIVE202_Spring2026_Project3_P3-320_combined-labs.ipynb)
 - [Scope of Work](CIVE202_Spring2026_Group20_Project3_ScopeOfWork.docx)
-- [Project code document]()
+- [Project code document](CIVE202_Spring%202026_Project%203_Python%20Code_Group%2020.ipynb)
 - [Annotated Code Document]()
 - [Time Sheet]()
 - [Final Report]()
