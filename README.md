@@ -6,6 +6,7 @@ This repository includes the following files:
 - [Lab document](CIVE202_Spring2026_Project3_P3-320_combined-labs.ipynb)
 - [Scope of Work](CIVE202_Spring2026_Group20_Project3_ScopeOfWork.docx)
 - [Project code document](CIVE202_Spring%202026_Project%203_Python%20Code_Group%2020.ipynb)
+  - This file contains the graphs and other viualizations of the data. It is highly recommended to download the data documents below before running the code.
 - [Annotated Code Document]()
 - [Time Sheet]()
 - [Final Report]()
